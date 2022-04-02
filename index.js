@@ -30,7 +30,7 @@ const newspapers = [
     {
         name: 'nyt',
         address: 'https://www.nytimes.com/international/section/climate',
-        base: '',
+        base: 'https://www.nytimes.com',
     },
     {
         name: 'latimes',
